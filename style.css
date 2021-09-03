@@ -1,0 +1,158 @@
+body {
+  font-family: 'Sarabun', sans-serif;
+  letter-spacing: 0.5px;
+  line-height: 1.8;
+  margin: 0;
+}
+
+/**********************************Navigation******************************/
+
+.navbar {
+  padding: 2% 6%;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+  font-weight: 100;
+  padding: 0;
+}
+
+.navbar-toggler {
+  padding-top: 15px;
+}
+
+.navbar-nav {
+  font-weight: lighter;
+}
+
+.nav-item {
+  padding-left: 23px;
+  font-size: 0.8rem;
+}
+
+.menu-icon {
+  width: 30%;
+  height: 30%;
+  padding-right: 10px;
+}
+
+a {
+  font-size: 0.85rem;
+}
+
+h3 {
+  font-size: 0.9rem;
+}
+
+/**********************************Hero Section******************************/
+
+.joystick-image {
+  position: relative;
+  width: 100%;
+  text-align: center;
+}
+
+h2 {
+  position: absolute;
+  background-color: #2fc28c;
+  color: white;
+  font-size: 1.6vw;
+  font-weight: bold;
+  margin-left: 150px;
+  margin-top: 80px;
+  padding: 20px;
+  word-spacing: 1.5px;
+}
+
+/**********************************Features******************************/
+
+#features {
+  padding: 4% 5%;
+}
+
+.container-fluid {
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+.feature-box {
+  padding: 15px;
+}
+
+h6 {
+  font-size: 1.1rem;
+  font-weight: bolder;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+p {
+  font-size: 0.85rem;
+  font-weight: lighter;
+}
+
+/**********************************Recent Work******************************/
+
+#recent-work {
+  padding: 0 5%;
+}
+
+h4 {
+  font-size: 0.9rem;
+  font-weight: bolder;
+}
+
+h5 {
+  font-size: 0.9rem;
+  font-weight: bolder;
+  padding-top: 10px;
+}
+
+hr {
+  position: relative;
+}
+
+/**********************************From The Blog******************************/
+
+#from-the-blog {
+  padding: 3% 5%;
+}
+
+/**********************************Bottom Section******************************/
+
+#bottom-section {
+  background-color: #1E2121;
+  color: white;
+  padding: 3% 5%;
+}
+
+#bottom-section p {
+  color: gray;
+  padding-top: 10px;
+}
+
+#bottom-section hr {
+  background-color: gray;
+  opacity: 30%;
+}
+
+#bottom-section h4 {
+  line-height: 0;
+  color: #CACACA;
+  font-size: 0.8rem;
+  font-weight: lighter;
+}
+
+/**********************************Footer******************************/
+
+footer {
+  background-color: #131414;
+  padding: 2%;
+  text-align: center;
+}
+
+h1 {
+  color: gray;
+  font-size: 0.75rem;
+  font-weight: lighter;
+}
